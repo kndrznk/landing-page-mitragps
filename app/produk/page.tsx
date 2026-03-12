@@ -26,7 +26,7 @@ const hardwareProducts = [
         features: ['Koneksi 4G LTE', 'Rentang 9-90V', 'Tahan Air IP65', 'Deteksi ACC/Ignition', 'Perilaku Mengemudi (Harsh Braking)'],
         price: 'Mulai Rp 750.000',
         popular: false,
-        image: '/images/gps-et200.jpg'
+        image: '/images/gps-et200.png'
     },
     {
         id: 'fmb120',
@@ -36,7 +36,7 @@ const hardwareProducts = [
         features: ['Bluetooth 4.0 (BLE)', 'Dual CAN-bus', 'Baterai Backup Internal', 'Sensor Suhu/RFID Support', 'Akurasi Super Tinggi'],
         price: 'Mulai Rp 1.200.000',
         popular: false,
-        image: 'https://placehold.co/400x300/f8fafc/0f172a?text=FMB120+Hardware' // Dummy image
+        image: '/images/teltonika-fmb120.png'
     }
 ]
 
